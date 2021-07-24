@@ -23,12 +23,10 @@ header {
 }
 .kurs {
     font-style: italic;
-    /* display: inline-block; */
-}
+    }
 .thick {
     font-weight: bold ;
-    /* display: inline-block; */
-}
+    }
 .kursblue {
     font-style: italic;
     color: rgb(50, 97, 236);
