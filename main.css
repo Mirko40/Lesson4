@@ -33,11 +33,21 @@ header {
     font-style: italic;
     color: rgb(50, 97, 236);
     display: inline-block;
-
+    font-weight: bold ;
 }
 .board {
     border-width: 3px;
     border-color: blue;
     border-style: dashed;
-    border-radius: 16px;
+    border-radius: 30px;
+}
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #110f0f;
+    font-size: 20px;
+    color:ghostwhite;
+    width: 800px;   
 }
