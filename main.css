@@ -1,0 +1,43 @@
+header { 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #A52A2A;
+    font-size: 30px;
+    color:ghostwhite;
+    width: 800px;
+     
+}
+
+.wrap {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.text {
+    border: 1px dotted royalblue;
+    width: 800px;
+    margin:20px auto ;
+  
+}
+.kurs {
+    font-style: italic;
+    /* display: inline-block; */
+}
+.thick {
+    font-weight: bold ;
+    /* display: inline-block; */
+}
+.kursblue {
+    font-style: italic;
+    color: rgb(50, 97, 236);
+    display: inline-block;
+
+}
+.board {
+    border-width: 3px;
+    border-color: blue;
+    border-style: dashed;
+    border-radius: 16px;
+}
