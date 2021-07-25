@@ -22,14 +22,14 @@ body {
         color:white;
       }
       .image-wrap {
-        border: 1px solid red;
+        /* border: 1px solid red; */
         background:black;
         display: flex;
-        justify-content: space-around;
+        justify-content: space-evenly;
 
       }
       .image {
-        background:rgb(32, 168, 62);
+        background:black;
         margin-left: 10px;
         margin-right: 10px;
         /* display:inline-block; */
@@ -45,7 +45,7 @@ body {
          .board2 {
           
             color:white;
-            border:1px solid blue;
+            /* border:1px solid blue; */
              } 
     footer {
               
@@ -72,7 +72,8 @@ body {
               display:inline-block;
     }
    .text0 {
-    display:inline-block;
+    display: flex;
+    justify-content: space-evenly;
    }
     .text {
       width: 60%;
